@@ -1,0 +1,1 @@
+Task 1,3-5 were not documented due to the fact I did not consider recording them, and I went out of order.
