@@ -34,7 +34,11 @@
 
     */5 * * * * echo hello > /tmp/cron_text
 
-4.  repeat steps 1-6 with correct logins for the other 2 app servers, when done, submit.
+6. (optional) check cron setup
+
+    sudo crontab -l
+
+7.  repeat steps 1-6 with correct logins for the other 2 app servers, when done, submit.
 
 # My Comments
-Had to look up exact package to install via my own notes from homelab deployments, using 'yum search selinux' returned to many results to know 100% what was the best to install.
+NA
