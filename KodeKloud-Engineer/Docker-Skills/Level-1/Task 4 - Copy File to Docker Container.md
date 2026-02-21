@@ -32,5 +32,5 @@
 5. submit
 
 ## My Comments
-I rarely have had to copy files into docker machines in my experince, used ' sudo docker --help ' to fined the ' cp ' command is valid with docker, and dug in the help menu with cp ' sudo docker cp --help '.
+I rarely have had to copy files into docker machines in my experience, used ' sudo docker --help ' to fined the ' cp ' command is valid with docker, and dug in the help menu with cp ' sudo docker cp --help '.
 
