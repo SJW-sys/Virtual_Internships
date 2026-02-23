@@ -1,7 +1,7 @@
 .secrets
 .secrets/**
 .secrets/**/**
-*/level-*/Certification Exam/Questions/**
+KodeKloud-Engineer/*/Level-*/Certification Exam/Questions/Task*
 *.crt
 *.secrets
 *.pass
