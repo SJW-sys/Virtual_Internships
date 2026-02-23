@@ -1,6 +1,7 @@
 .secrets
 .secrets/**
 .secrets/**/**
+*/level-*/Certification Exam/Questions/**
 *.crt
 *.secrets
 *.pass
