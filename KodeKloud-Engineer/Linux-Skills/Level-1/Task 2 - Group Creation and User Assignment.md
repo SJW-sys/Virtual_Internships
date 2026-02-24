@@ -25,7 +25,7 @@
 
 4. confirm group exist and user is in group
 
-    sudo cat /etc/group
+    cat /etc/group
 
 5. repeat steps 1-4 on the other two servers
 
