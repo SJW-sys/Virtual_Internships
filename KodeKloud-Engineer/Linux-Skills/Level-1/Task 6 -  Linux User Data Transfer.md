@@ -36,6 +36,6 @@
 6. submit
 
 ## My Comments
-NA
+I did need to do some research to determine the best way to transfer data from a targeted user, as I was unfamiliar with how to do this. Compared some stack overflow,reddit and other post against an AI generated answer, which I tested into a temp folder I created then removed upon validating expected outcome.
 
 
