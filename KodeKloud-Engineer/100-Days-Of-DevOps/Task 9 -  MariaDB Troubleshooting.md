@@ -27,10 +27,10 @@
 
     journalctl -xeu mariadb.service
 
-        Mar 02 19:38:12 stdb01.stratos.xfusioncorp.com mariadb-prepare-db-dir[2286]: Database MariaDB is not initialized, but the directory /var/lib/mysql is not empty, so initialization cannot be done. </br>
-        Mar 02 19:38:12 stdb01.stratos.xfusioncorp.com mariadb-prepare-db-dir[2286]: Make sure the /var/lib/mysql is empty before running mariadb-prepare-db-dir. </br>
-        Mar 02 19:38:12 stdb01.stratos.xfusioncorp.com systemd[1]: mariadb.service: Child 2286 belongs to mariadb.service. </br>
-        Mar 02 19:38:12 stdb01.stratos.xfusioncorp.com systemd[1]: mariadb.service: Control process exited, code=exited, status=1/FAILURE </br>
+        Mar 02 19:38:12 stdb01.stratos.xfusioncorp.com mariadb-prepare-db-dir[2286]: Database MariaDB is not initialized, but the directory /var/lib/mysql is not empty, so initialization cannot be done.
+        Mar 02 19:38:12 stdb01.stratos.xfusioncorp.com mariadb-prepare-db-dir[2286]: Make sure the /var/lib/mysql is empty before running mariadb-prepare-db-dir.
+        Mar 02 19:38:12 stdb01.stratos.xfusioncorp.com systemd[1]: mariadb.service: Child 2286 belongs to mariadb.service.
+        Mar 02 19:38:12 stdb01.stratos.xfusioncorp.com systemd[1]: mariadb.service: Control process exited, code=exited, status=1/FAILURE
 
     looks like a potential error with expected dir missing, or wrong permissions, or unexpected data.
 
