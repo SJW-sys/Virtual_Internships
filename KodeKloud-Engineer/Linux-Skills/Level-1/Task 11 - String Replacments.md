@@ -37,6 +37,8 @@
 
 6. submit
 
+7. (outside of lab) I would have deleted the backup file once confirmed its working as expected for end users.
+
 ## My Comments
 Its been awhile since I used Sed, had some issue id the command in my notes or with apropos, so did a google search. reviewed its man page and uses on Stackoverflow to build the correct command I needed.
 
