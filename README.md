@@ -20,3 +20,4 @@ While AI is a useful tool, hands-on-learning and note-taking are the best way to
 2. [Hack The Box](https://academy.hackthebox.com/)
 3. [Try Hack Me](https://tryhackme.com/)
 4. [Forage](https://www.theforage.com/)
+5. [Sad Servers](https://sadservers.com/)
