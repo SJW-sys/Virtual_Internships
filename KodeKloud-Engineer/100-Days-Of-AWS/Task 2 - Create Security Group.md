@@ -15,7 +15,6 @@
 > Add another inbound rule of type SSH, with port range of 22. Enter the source CIDR range of 0.0.0.0/0.
 
 ## Solution
-**Important -** While there are more exact commands to make this as quick as possible, I will be as expressive as possible to show a step by step guide with optional verification steps.
 
 1. login to the test AWS Environment
 2. Navigate to VPC resources, and open the existing default VPC
