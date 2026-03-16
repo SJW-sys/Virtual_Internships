@@ -1,17 +1,18 @@
-#
+# Attach Elastic IP to EC2 Instance
 ## Task
 **Important -** Please note that these task can have slight variation such as usernames, filepaths, files, etc
 
+> The Nautilus DevOps team has been creating a couple of services on AWS cloud. They have been breaking down the migration into smaller tasks, allowing for better control, risk mitigation, and optimization of resources throughout the migration process. Recently they came up with requirements mentioned below.
 >
+> There is an instance named nautilus-ec2 and an elastic-ip named nautilus-ec2-eip in us-east-1 region. Attach the nautilus-ec2-eip elastic-ip to the nautilus-ec2 instance.
 
 ## Solution
-**Important -** While there are more exact commands to make this as quick as possible, I will be as expressive as possible to show a step by step guide with optional verification steps.
 
-1. Connect to target server, login details found in the 'company' wiki. (In a real world this would be in a vault,or you be accessing via your own assigned identity, not a shared identity.)
-
-
-
-2. 
+1. login to the test AWS Environment
+2. Navigate to ec2 resources, searching ec2 in the top bar will pull it up as a navigation option.
+3. Click on 'Elastic IP addresses' on left hand pane
+4. Select the correct Elastic IP, then use "action" drop down menu to select "Associate Elastic IP address", and attach to the instance
+5. submit
 
 
 ## My Comments
