@@ -18,6 +18,7 @@
 6. Once fully stopped, might take upto a minute, using the 'action' drop down menu you can 'Change instance type'.
 7. Once you have changed the instance type, then start the instance using the 'instant state' drop down menu.
 8. Ensure the instant starts and is a 'running' state, and the 'status check' have pasted.
+9. submit
 
 
 ## My Comments
